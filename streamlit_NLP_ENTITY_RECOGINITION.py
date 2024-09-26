@@ -1,4 +1,4 @@
-pip install --upgrade spacy thinc numpy
+py -m pip install --upgrade spacy thinc numpy
 import streamlit as st
 import spacy
 import en_core_web_sm
